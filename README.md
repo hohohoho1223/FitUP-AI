@@ -1,2 +1,2 @@
 # Fit-UP-AI
-AI관련 내용
+AI Repository
